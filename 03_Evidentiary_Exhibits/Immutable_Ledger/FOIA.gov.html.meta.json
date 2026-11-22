@@ -1,0 +1,12 @@
+{
+  "url": "https://www.foia.gov/",
+  "final_url": "https://www.foia.gov/",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 28089,
+  "sha256": "a9bdfe9a2ec5cf059315d00d6e7644f3c16bd98977ce79698419ae4a4c626ae8",
+  "captured_at": "2026-11-22T17:04:29.210973Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "2b"
+}
